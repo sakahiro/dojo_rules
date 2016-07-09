@@ -1,1 +1,1 @@
-Ruby
+I love Ruby and JavaScript!
